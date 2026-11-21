@@ -1,10 +1,13 @@
 # kvante ♡
 So welcome to my field in quantum ♡
 
-first two i present in this is:
+`first two i present in this is: `
+```
 bios ' the foreseeable
 bioz ' the affinity
 ['partiklez] is ioz levelz.
+```
+
 
 
 <div>
