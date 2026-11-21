@@ -1,5 +1,7 @@
 # kvante ♡
-So welcome to my field in quantum ♡
+So welcome to my field in quantum ♡ 4ever field, greatest field ever discovered by
+
+SAMEN.
 
 `first two i present in this is: `
 ```
