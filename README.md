@@ -1,7 +1,12 @@
 # kvante ♡
 So welcome to my field in quantum ♡ 4ever field, greatest field ever discovered by
 
-SAMEN.
+```
+ssd ' 𝼃et'┬ → ┴'ket. = 9200 tokens per seconds. 
+vs gpu 14 t/sec
+;*** 
+```
+git gud idiots, see you on the "flip'side". pay me now or forever regret.
 
 `first two i present in this is: `
 ```
