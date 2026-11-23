@@ -9,5 +9,10 @@ a "kvante" kernel would be able to make it seamless so that the understanding is
 <img width="20%" height="52" alt="image" src="https://github.com/user-attachments/assets/d89048a0-d153-48fd-b6b2-b13b8dece109" />
 
 
+<br /> 
+<br /> 
+
+take a picutre of the chat and alot will change as they afterwards get to see both what they wrote and the details :) 
+
 <img width="30%" alt="image" src="https://github.com/user-attachments/assets/1fdbfbaa-bc87-4a99-887e-c60b2c1136ce" />
 <img width="30%"  alt="image" src="https://github.com/user-attachments/assets/3bd5a4ad-f296-4297-9760-08eed8c92a89" />
