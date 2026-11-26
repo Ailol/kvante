@@ -14,8 +14,13 @@ bios ' the foreseeable
 bioz ' the affinity
 ['partiklez] is ioz levelz.
 ```
+# Kvante ' the timeless dial
+# kvante essential is to avoid directional data. OS directs all data into a cycle. which is time.
+think of the product rubiks as the non solved one(that is cyclic to solve).
+However after solved, the moves become already known(and we do know all data processing techniques necessary to produce a "speedrunning version kernel" :) 
+cycle is latched essentially. whereas kvante is pure turbulence. 
 
-
+<img width="30%" alt="image" src="https://github.com/user-attachments/assets/4a6adbb0-c1e6-4bd4-bbc5-a7f57719ea0f" />
 
 <div>
 <sup> the ' holy field of(discovery' of rythmz) </sup>
